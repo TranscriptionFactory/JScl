@@ -1,0 +1,347 @@
+Attaching SeuratObject
+Registered S3 method overwritten by 'SeuratDisk':
+  method            from  
+  as.sparse.H5Group Seurat
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Validating h5Seurat file
+Initializing RNA with data
+Adding counts for RNA
+Adding scale.data for RNA
+Adding feature-level metadata for RNA
+Adding variable feature information for RNA
+Adding miscellaneous information for RNA
+Adding reduction harmony
+Adding cell embeddings for harmony
+Adding feature loadings for harmony
+Adding projected loadings for harmony
+Adding miscellaneous information for harmony
+Adding reduction pca
+Adding cell embeddings for pca
+Adding feature loadings for pca
+Adding miscellaneous information for pca
+Adding reduction umap
+Adding cell embeddings for umap
+Adding miscellaneous information for umap
+Adding graph RNA_nn
+Adding graph RNA_snn
+Adding command information
+Adding cell-level metadata
+Adding miscellaneous information
+Adding tool-specific results
+Adding data that was not associated with an assay
+Warning: Adding a command log without an assay associated with it
+[1] 7
+[1] 11
+[1] 12
+[1] 14
+[1] 15
+[1] 22
+[1] 24
+[1] 25
+[1] 26
+[1] 9
+[1] 13
+[1] 15
+[1] 22
+[1] 23
+[1] 27
+[1] 12
+[1] 15
+[1] 16
+[1] 22
+[1] 23
+[1] 24
+[1] 27
+[1] 9
+[1] 10
+[1] 11
+[1] 12
+[1] 13
+[1] 14
+[1] 15
+[1] 20
+[1] 24
+[1] 25
+[1] 14
+[1] 12
+[1] 15
+[1] 22
+[1] 7
+[1] 9
+[1] 10
+[1] 11
+[1] 12
+[1] 13
+[1] 14
+[1] 15
+[1] 20
+[1] 22
+[1] 23
+[1] 24
+[1] 25
+[1] 26
+[1] 15
+[1] 22
+[1] 14
+[1] 22
+[1] 7
+[1] 9
+[1] 15
+[1] 22
+[1] 15
+[1] 22
+[1] 22
+[1] 13
+[1] 14
+[1] 15
+[1] 22
+[1] 23
+[1] 27
+[1] 11
+[1] 14
+[1] 15
+[1] 22
+[1] 15
+[1] 22
+[1] 5
+[1] 7
+[1] 13
+[1] 15
+[1] 22
+[1] 23
+[1] 24
+[1] 26
+[1] 3
+[1] 7
+[1] 9
+[1] 10
+[1] 11
+[1] 12
+[1] 13
+[1] 14
+[1] 15
+[1] 16
+[1] 22
+[1] 23
+[1] 24
+[1] 25
+[1] 26
+[1] 27
+[1] 4
+[1] 7
+[1] 14
+[1] 15
+[1] 16
+[1] 19
+[1] 21
+[1] 22
+[1] 23
+[1] 26
+[1] 22
+[1] 15
+[1] 12
+[1] 13
+[1] 22
+[1] 22
+[1] 4
+[1] 6
+[1] 8
+[1] 10
+[1] 11
+[1] 12
+[1] 13
+[1] 15
+[1] 16
+[1] 19
+[1] 22
+[1] 24
+[1] 25
+[1] 26
+[1] 27
+[1] 7
+[1] 9
+[1] 10
+[1] 11
+[1] 12
+[1] 13
+[1] 14
+[1] 15
+[1] 16
+[1] 20
+[1] 22
+[1] 23
+[1] 24
+[1] 25
+[1] 26
+[1] 27
+[1] 7
+[1] 14
+[1] 15
+[1] 17
+[1] 22
+[1] 24
+[1] 7
+[1] 9
+[1] 13
+[1] 14
+[1] 15
+[1] 22
+[1] 24
+[1] 5
+[1] 8
+[1] 15
+[1] 5
+[1] 12
+[1] 13
+[1] 1
+[1] 5
+[1] 13
+[1] 21
+[1] 5
+[1] 8
+[1] 11
+[1] 12
+[1] 15
+[1] 20
+[1] 22
+[1] 7
+[1] 17
+[1] 13
+[1] 22
+[1] 24
+[1] 25
+[1] 2
+[1] 3
+[1] 7
+[1] 11
+[1] 17
+[1] 22
+[1] 24
+[1] 26
+[1] 15
+[1] 26
+[1] 12
+[1] 20
+[1] 22
+[1] 1
+[1] 2
+[1] 5
+[1] 6
+[1] 7
+[1] 8
+[1] 10
+[1] 11
+[1] 12
+[1] 16
+[1] 17
+[1] 18
+[1] 22
+[1] 23
+[1] 7
+[1] 9
+[1] 10
+[1] 12
+[1] 13
+[1] 14
+[1] 15
+[1] 16
+[1] 22
+[1] 23
+[1] 25
+[1] 2
+[1] 3
+[1] 5
+[1] 7
+[1] 10
+[1] 11
+[1] 12
+[1] 13
+[1] 14
+[1] 15
+[1] 16
+[1] 19
+[1] 23
+[1] 24
+[1] 26
+[1] 3
+[1] 4
+[1] 8
+[1] 9
+[1] 11
+[1] 14
+[1] 15
+[1] 16
+[1] 20
+[1] 22
+[1] 27
+[1] 1
+[1] 2
+[1] 6
+[1] 8
+[1] 9
+[1] 10
+[1] 11
+[1] 12
+[1] 13
+[1] 14
+[1] 15
+[1] 16
+[1] 17
+[1] 19
+[1] 20
+[1] 22
+[1] 23
+[1] 24
+[1] 25
+[1] 26
+[1] 27
+[1] 4
+[1] 5
+[1] 6
+[1] 8
+[1] 9
+[1] 10
+[1] 12
+[1] 14
+[1] 15
+[1] 16
+[1] 19
+[1] 20
+[1] 22
+[1] 25
+[1] 26
+[1] 1
+[1] 2
+[1] 3
+[1] 5
+[1] 6
+[1] 7
+[1] 8
+[1] 9
+[1] 10
+[1] 11
+[1] 12
+[1] 13
+[1] 14
+[1] 15
+[1] 16
+[1] 17
+[1] 20
+[1] 22
+[1] 23
+[1] 24
+[1] 25
+[1] 26
+[1] 27
+`summarise()` has grouped output by 'library_id'. You can override using the
+`.groups` argument.
